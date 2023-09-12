@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kyoto</title>
+    <link rel="stylesheet" href="../css/reset.css">
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <header>
+        <h1 class="logo"><span>K</span>yoto<sup style="font-size: medium;">inc</sup></h1>
+        <nav>
+            <a href="./gallery.html">Gallery</a><a href="./history.html">History</a><a href="../index.html">Home</a><a href="./contact.html">Contact</a>
+        </nav>
+    </header>
+    <section>
+        <h3>Embark on a journey of a lifetime and book your ticket to Kyoto today! This enchanting city, nestled in the heart of Japan, beckons with its timeless allure and captivating beauty. From the serenity of ancient temples to the bustling streets of modern life, Kyoto offers an experience like no other. Don't miss the opportunity to immerse yourself in the rich culture, exquisite cuisine, and breathtaking landscapes that Kyoto has to offer. Whether you're a history buff, a nature enthusiast, or a foodie craving the delights of authentic Japanese cuisine, Kyoto has something for everyone.</h3>
+        <hr>
+        <div style="display: flex; justify-content: center;">
+            <form action="#">
+                <label for="from">From</label>
+                <input placeholder="Stockholm" type="text" name="from" id="from">
+                <div>
+                    <div class="form-flex">
+                        <label for="dateTravel">Date</label>
+                        <input type="date" name="dateTravel" id="dateTravel">
+                    </div>
+                    <div class="form-flex">
+                        <label for="duration">Duration</label>
+                        <select name="duration" id="duration">
+                            <option value="1w">1 Week</option>
+                            <option value="2w">2 Weeks</option>
+                            <option value="3w">3 Weeks</option>
+                            <option value="4w">4 Weeks</option>
+                        </select>
+                    </div>
+                </div>
+                <div>
+                    <div class="form-flex">
+                        <label for="adult">Adults</label>
+                        <input value="2" type="text" name="adult" id="adult">
+                    </div>
+                    <div class="form-flex">
+                        <label for="kid">Children</label>
+                        <input value="1" type="text" name="kid" id="kid">
+                    </div>
+                </div>
+                <input style="margin: 0;" type="submit" value="Search a Trip to Kyoto">
+            </form>
+        </div>
+    </section>
+    <footer>
+        <div class="flex">
+            <h1 style="padding: 0;" class="logo"><span>K</span>yoto<sup style="font-size: medium;">inc</sup></h1>
+        </div>
+        <div class="vr"></div>
+        <div style="width: 25vw;" class="flex">
+            <p>Follow us</p>
+            <i class="fa-brands fa-x-twitter fa-xl icon" style="color: #000000;"></i>
+            <i class="fa-brands fa-facebook-f fa-xl icon" style="color: #000000;"></i>
+            <i class="fa-brands fa-instagram fa-xl icon" style="color: #000000;"></i>
+            <i class="fa-brands fa-youtube fa-xl icon" style="color: #000000;"></i>
+        </div>
+        <div class="vr"></div>
+        <div class="flex">
+            &copy; 2023 Kyoto Inc. All rights reserved.
+        </div>
+    </footer>
+    <script src="https://kit.fontawesome.com/32dcd0ccfb.js" crossorigin="anonymous"></script>
+</body>
+</html>

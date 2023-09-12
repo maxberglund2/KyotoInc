@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Montserrat:wght@300;400&family=Roboto+Mono&family=Source+Code+Pro&display=swap');
+body {
+    height: 100vh;
+    background-color: #000000;
+    background-image: url('../img/kyoto.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.logo {
+    display: inline-block;
+    padding: 50px;
+    font-size: 50px;
+}
+.logo span {
+    color: red;
+    font-size: 60px;
+}
+.options {
+    border-radius: 3px;
+    border-right: 1px solid white;
+    border-left: 1px solid white;
+    display: flex;
+    flex-flow: column;
+    width: 40%;
+}
+.options a {
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+}
+a:after, a::before {
+    padding: 5px;
+    display:block;
+    content: '';
+    border-bottom: solid 2px #ffffff; 
+    transform: scaleX(0);  
+    transition: transform 250ms ease-in-out;
+}
+    
+a:hover:after { transform: scaleX(1); }
