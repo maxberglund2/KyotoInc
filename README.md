@@ -40,5 +40,3 @@ Have questions or need assistance? Feel free to [contact us](./contact.html) for
 ---
 
 &copy; 2023 Kyoto Inc. All rights reserved.
-
-[![FontAwesome](https://kit.fontawesome.com/32dcd0ccfb.js) - Font Awesome](https://fontawesome.com/)
