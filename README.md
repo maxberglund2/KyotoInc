@@ -30,7 +30,7 @@ Click "Search a Trip to Kyoto" and begin your adventure!
 
 ## Contact Us
 
-Have questions or need assistance? Feel free to [contact us](./contact.html) for more information.
+Have questions or need assistance? Feel free to [contact us](https://maxberglund2.github.io/KyotoInc/html/contact.html) for more information.
 
 ---
 
