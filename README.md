@@ -35,3 +35,5 @@ Have questions or need assistance? Feel free to [contact us](./contact.html) for
 ---
 
 &copy; 2023 Kyoto Inc. All rights reserved.
+
+[Visit our website](https://maxberglund2.github.io/KyotoInc/)
