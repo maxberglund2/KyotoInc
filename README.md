@@ -5,10 +5,10 @@ Welcome to Kyoto, your gateway to the enchanting city of Tokyo, Japan. This webs
 ## Table of Contents
 
 - [About Kyoto](#about-kyoto)
-- [Landmarks](#landmarks)
+- [Gallery](#landmarks)
 - [History](#history)
-- [Plan Your Trip](#plan-your-trip)
-- [Contact Us](#contact-us)
+- [Booking](#plan-your-trip)
+- [Contact](#contact-us)
 
 ## About Kyoto
 
