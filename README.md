@@ -1,4 +1,4 @@
-# Kyoto - Explore the Beauty of Tokyo
+# Kyoto - Explore the Beauty of Kyoto
 
 Welcome to Kyoto, your gateway to the enchanting city of Tokyo, Japan. This website is your ultimate resource for discovering Tokyo's landmarks, history, and everything in between. Whether you're planning a trip or simply curious about this captivating city, Kyoto has you covered.
 
