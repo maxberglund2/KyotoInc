@@ -15,7 +15,7 @@ Explore Tokyo's iconic landmarks and discover the beauty of this vibrant city.
 
 ## History
 
-Delve into the rich history of Tokyo and learn about its fascinating past.
+Delve into the rich history of Kyoto and learn about its fascinating past.
 
 ## Plan Your Trip
 
